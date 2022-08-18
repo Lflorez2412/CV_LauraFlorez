@@ -1,0 +1,49 @@
+
+.foto.Laura{
+    height: 146.37px;
+    left: 670px;
+    top: 20.91px;
+    width: 100px;
+    }
+
+header {text-align:center}
+
+
+h1,h2 {
+    background-color:#C4C4C4;
+    color:#005677;
+    letter-spacing:6px;
+    }
+
+.sub-negro{
+    font-family:'Times New Roman';
+    font-style:italic;
+    font-weight:bold;
+    }
+
+.sub-2{
+    font-family:'Times New Roman';
+    font-weight:bold;
+    }
+
+.tab-1{
+    text-indent: 66px;
+    }
+
+.tab-2{
+    object-position: 70px;
+    }
+
+.contacto {
+    background-color: #005677;
+    }
+
+footer {
+    text-align:center;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    }
